@@ -7,15 +7,15 @@
 <p>
   <em>
     I am a Final Year undergraduate from <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology</b></a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    A budding <b>FullStack Developer</b> <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Developer.gif" width="30px"> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
 ### **More about me...**
-
-- 🔭 I’m currently working on mastering React 💻.
+### <img align="right" src="https://github.com/cruze2/cruze2/blob/main/Assets/1QIe.gif" height="230" width="400">
+- 🔭 I’m currently working on Flutter 💻.
 - 🌱 I’m currently improving my Full Stack Development 🚀.
 - 💻 I have worked on Flutter, Python, HTML/CSS, Javascript, React, Nodejs, MySQL, MongoDB, Git, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
