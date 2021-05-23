@@ -1,15 +1,15 @@
-<img align="center" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/name_2.gif" width="800px">
+<img align="center" src="https://github.com/cruze2/cruze2/blob/main/Assets/name.jpg" width="800px">
 
-<img align="right" alt="PC GIF" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/aboutme.gif" width="250" />
+<!-- <img align="right" alt="PC GIF" src="https://github.com/cruze2/cruze2/blob/main/Assets/aboutme.gif" width="170" height="150" align="right" /> -->
 
-### <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Hi.gif" width="29px"> **Hello There!** &nbsp;<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Hi.gif" width="29px"> **Hello There!** &nbsp;<img src="https://github.com/cruze2/cruze2/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
-    I am a 2rd Year undergraduate from <a href="https://vit.ac.in/"> <b>Vellore Institute Of Technology</b></a>.  
+    I am a Final Year undergraduate from <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology</b></a>.  
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
@@ -17,12 +17,10 @@
 
 - 🔭 I’m currently working on mastering React 💻.
 - 🌱 I’m currently improving my Full Stack Development 🚀.
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, etc.
+- 💻 I have worked on Flutter, Python, HTML/CSS, Javascript, React, Nodejs, MySQL, MongoDB, Git, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack. :)
 
-![Srezzx's github stats](https://github-readme-stats.vercel.app/api?username=Srezzx&show_icons=true&hide_border=true)
-<img align="right" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/PC.gif" width="200">
+
 
 
 
@@ -38,12 +36,12 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-# Connect with me<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/cruze2/cruze2/blob/main/Assets/Handshake.gif" height="32px">
 
 
 
-| [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/sriesh-agrawal-5b2bb0190/) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Sriesh_Agrawal) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/imsrezz/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Srezzx) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:agrawalsriesh1203@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/cruze2/cruze2/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/amit-kumar-prasad-855719188/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/cruze2/) | [<img src="https://github.com/cruze2/cruze2/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:amitcruiser3@gmail.com)
+|:---:|:---:|:---:|
 
 
 
