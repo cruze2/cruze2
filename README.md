@@ -8,8 +8,8 @@
   <em>
     I am a  graduate Engg from <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology</b></a>.  
     A budding <b>FullStack Developer</b> <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Developer.gif" width="30px"> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Rocket.gif" width="18px"> 
-    <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Rocket.gif" width="10px"> 
+    <img src="https://github.com/cruze2/cruze2/blob/main/Assets/Medal.gif" width="15px">
   </em>  
 </p>
 
